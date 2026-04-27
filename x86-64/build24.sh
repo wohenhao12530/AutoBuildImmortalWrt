@@ -64,7 +64,7 @@ PACKAGES="$PACKAGES luci-i18n-rtp2httpd-zh-cn"
 PACKAGES="$PACKAGES luci-app-samba4"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
-
+PACKAGES="$PACKAGES openssh-sftp-server"
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # ======== shell/custom-packages.sh =======
